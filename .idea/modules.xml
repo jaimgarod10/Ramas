@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Ramas.iml" filepath="$PROJECT_DIR$/.idea/Ramas.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Ramas.iml" filepath="$PROJECT_DIR$/Ramas.iml" />
+>>>>>>> exp
     </modules>
   </component>
 </project>
